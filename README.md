@@ -1,5 +1,5 @@
 <!-- <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg" /> -->
-<img align="right" width="64" src="https://github.com/user-attachments/assets/219710f1-d054-4cd3-8f4e-dc509e06a4e7" />
+<img align="right" width="64" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjB3bHdtbnppZXB6a2pxYXY0aHB4NG04ZThlZ3dydTVwcTZ2emUxcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" />
 <!-- <img align="right" width="64" src="https://img.icons8.com/color/48/vietnam-circular.png" /> -->
 
 <h2 align="center">Hi 👋, I'm dudiff</h2>
